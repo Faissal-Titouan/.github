@@ -1,4 +1,10 @@
-## Hi there 👋
+## Algo-Trading 
+### This is the collaboration of F and T, our goal is to build differents algo-trading strategies on different asset
+
+Our first project : 
+  -Pairs trading and statistical arbitrage 
+
+
 
 <!--
 
